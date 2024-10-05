@@ -1,7 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+
+<h1>About Me</h1>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <td>Your Name</td>
+    </tr>
+    <tr>
+        <th>Introduction</th>
+        <td>Hello, I am a junior in the BS IT program. I enjoy coding in Python and R.</td>
+    </tr>
+    <tr>
+        <th>Hobbies</th>
+        <td>Programming, making websites, reading, and hiking.</td>
+    </tr>
+</table>
+
 </body>
 </html>
